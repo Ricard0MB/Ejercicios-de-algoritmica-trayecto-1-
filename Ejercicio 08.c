@@ -15,5 +15,7 @@ int main() {
   // Mostrar la circunferencia
   printf("La circunferencia del círculo es: %.2f\n", circunferencia);
 
+  printf("Esa si que es una circunferencia");
+  
   return 0;
 }
