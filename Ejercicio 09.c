@@ -18,5 +18,8 @@ int main() {
   // Mostrar el resultado
   printf("%d segundos equivalen a: %dh %dmin %dseg\n", segundosTotales, horas, minutos, segundosRestantes);
 
+  // Mostrar un chiste
+  printf("Solo eso falta para el fin del mundo, Corran!!!");
+  
   return 0;
 }
